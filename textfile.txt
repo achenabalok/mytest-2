@@ -1,0 +1,74 @@
+{
+  "prompts": [
+    {
+      "prompt_details": {
+        "subject": {
+          "identity": "Ana de Armas",
+          "appearance": "brunette hair, warm brown eyes, natural dewy makeup",
+          "pose": "relaxed elegant pose, soft confident gaze",
+          "clothing": "champagne-toned silk gown"
+        },
+        "environment": {
+          "setting": "luxury indoor studio",
+          "color_palette": "warm gold and dark neutral tones"
+        },
+        "lighting_and_mood": {
+          "lighting_style": "soft cinematic lighting with rim light",
+          "mood": "intimate, sophisticated editorial"
+        },
+        "quality_tags": [
+          "4k resolution",
+          "photorealistic",
+          "sharp focus",
+          "fashion editorial",
+          "portrait ratio 9:16"
+        ]
+      }
+    },
+    {
+      "prompt_details": {
+        "subject": {
+          "identity": "Sadie Sink",
+          "appearance": "red hair updo, fair skin with freckles, blue eyes",
+          "pose": "upright elegant posture, direct gaze",
+          "clothing": "black lace evening dress"
+        },
+        "environment": {
+          "setting": "classic studio backdrop",
+          "color_palette": "black with soft highlights"
+        },
+        "lighting_and_mood": {
+          "lighting_style": "soft dramatic studio lighting",
+          "mood": "timeless fashion portrait"
+        },
+        "quality_tags": [
+          "4k resolution",
+          "high detail",
+          "cinematic look",
+          "portrait ratio 9:16"
+        ]
+      }
+    },
+    {
+      "prompt_details": {
+        "subject": {
+          "identity": "Kendall Jenner",
+          "appearance": "long dark hair, minimal makeup, sun-kissed skin",
+          "pose": "seated relaxed pose, confident gaze",
+          "clothing": "minimal neutral lounge outfit"
+        },
+        "environment": {
+          "setting": "luxury resort-style interior",
+          "color_palette": "warm beige and earth tones"
+        },
+        "lighting_and_mood": {
+          "lighting_style": "natural window light",
+          "mood": "modern lifestyle editorial"
+        },
+        "quality_tags": [
+          "4k resolution",
+          "photorealistic",
+          "clean aesthetic",
+          "portrait ratio 9:16"
+        ]
+      }
